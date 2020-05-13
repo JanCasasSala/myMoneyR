@@ -1,1 +1,1 @@
-# myMoneyR
+La primera versió
